@@ -1,0 +1,11 @@
+/blog
+|-- /assets
+|   |-- /images
+|       |-- avatar.png
+|-- /css
+|   |-- reset.css
+|   |-- typography.css
+|   |-- layout.css
+|   |-- styles.css
+|-- index.html
+|-- blog-post.html
